@@ -7,9 +7,9 @@ This project is part of the BCG Forage Job Simulation, designed to provide hands
 
 ---
 ## **Datasets Used:**
-- Raw Data: Contain price_data.csv, client_data.csv
-- clean_data_after_eda.csv
-- data_for_predictions.csv
+- Raw Data: Contain `price_data.csv`, `client_data.csv`
+- `clean_data_after_eda.csv`
+- `data_for_predictions.csv`
 
 
 ---
